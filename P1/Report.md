@@ -43,9 +43,6 @@ In this section, you must report the outcomes of the laboratory activities.
 
 1. Download and install the open source (free) software ‘KiCad EDA’ form its official [web page](https://kicad-pcb.org/).  
 2. Click on ‘kicad.exe’ application. Now, you are in the main window: ‘Kicad Project Manager,’ as shown in Fig. 1. From here, you will be capable of accessing 5 different tools: EESchema, Cvpcb, PCBnew, GerbView and Bitmpa2Component.
-
-![Fig. 1](./kicad0.png)
-
 3. Create a new project: **File→New→Project… [CTRL + N]**. Open the project folder, all files in your project will be saved there. The project will be saved with the ‘.pro’ extension. 
 ***NOTE:*** *Make sure that the PATH of your project does not include special characters like “spaces, accentuations, letter ‘ñ’, etc.”*
 4. Begin to create the schematic. Let us open the EESchema editor, It is the first button on the left of the ‘Project Manager.’ If a dialog message pops, select: *‘Create an empty symbol library table…’*.
