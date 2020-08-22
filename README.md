@@ -12,6 +12,6 @@ These folders are named with the initial "P" of practice, plus the number associ
 Inside, you could find the report of lab practice with the instructions, results ,and conclusions (highlighted in green). 
 
 ```diff
-- Name: "Report.dm".
+- Name: Report as "README.dm".
 ```
 Moreover, a .zip and pdf of the final results are added in the same folder to provide all the work done or to check it out in more detail.
