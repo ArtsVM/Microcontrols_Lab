@@ -1,6 +1,6 @@
-# Microcontrols Laboratory
+# Microcontrollers Laboratory
 
-<img src="Banner.jpg" width="1000" height="150" >
+<img src="Banner.jpg" width="1000" height="190" >
 
 ## Arturo VM - Repository GitHub Space
 
