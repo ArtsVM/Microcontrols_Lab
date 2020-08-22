@@ -1,5 +1,5 @@
 # Microcontrols_Lab
-<img src="images/filename%20spaces.png">
+<img src="Banner.jpg" width="1000" height="150" >
 ## Arturo VM - Repository GitHub Space
 
 In this repository, you will find different files where each corresponds to the lab practice done.
