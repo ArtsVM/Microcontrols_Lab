@@ -1,4 +1,4 @@
-# Microcontrols_Lab
+#                                  Microcontrols Laboratory
 
 <img src="Banner.jpg" width="1000" height="150" >
 
