@@ -1,5 +1,7 @@
-# Microcontrols_Lab
+
 <img src="Banner.jpg" width="1000" height="150" >
+
+# Microcontrols_Lab
 ## Arturo VM - Repository GitHub Space
 
 In this repository, you will find different files where each corresponds to the lab practice done.
