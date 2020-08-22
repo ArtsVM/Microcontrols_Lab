@@ -1,5 +1,5 @@
 ## Arturo Vázquez Muñoz → A00570187
-# Report Practice 1. Developiong the PCB (Schematic)
+# Report - Practice 1. Developiong the PCB (Schematic)
 
 ## Objectives
 
