@@ -97,12 +97,12 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 ```diff
-+ As it was the first laboratory practice, the goal of learning how to familiarize ourselves with KiCad software was achieved. 
-In particular, I worked with the Schematic section to generate the electronic diagrams with the different components, as well 
-as obtaining the .NET. Thus, learning how to use the shortcuts (as "G" to grab or "C" to duplicate), add libraries, check for 
-connection errors and add headers; were of great importance and helpful for the next deliveries. As a suggestion or complaint, 
-I could say that the attached image of the schematic to be made, should be in a better resolution or bigger, because when you 
-download it or see it online, you can not appreciate the small details or some parts are distorted as units of resistances, 
-power supplies, among others. +
++ As it was the first laboratory practice, the goal of learning how to familiarize ourselves with KiCad software was 
++ achieved.In particular, I worked with the Schematic section to generate the electronic diagrams with the different 
++ components, as well as obtaining the .NET. Thus, learning how to use the shortcuts (as "G" to grab or "C" to duplicate),
++ add libraries, check for connection errors and add headers; were of great importance and helpful for the next deliveries. 
++ As a suggestion or complaint, I could say that the attached image of the schematic to be made, should be in a better 
++ resolution or bigger, because when you download it or see it online, you can not appreciate the small details or some 
++ parts are distorted as units of resistances, power supplies, among others. 
 ```
 
