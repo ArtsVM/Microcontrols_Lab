@@ -1,4 +1,5 @@
-# Practice 3. Developiong the PCB (Fabrication)
+## Arturo Vázquez Muñoz → A00570187
+# Report - Practice 3. Developiong the PCB (Fabrication)
 
 ## Objectives
 
