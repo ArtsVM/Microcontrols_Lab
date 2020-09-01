@@ -1,4 +1,5 @@
-# Practice 2. Developiong the PCB (Layout)
+## Arturo Vázquez Muñoz → A00570187
+# Report - Practice 2. Developiong the PCB (Layout)
 
 ## Objectives
 
