@@ -67,6 +67,8 @@ Commit and push the files with extensions .pro, .gbl, and .drl  created once you
 ### Demonstration
 Screenshot the image of the complete PBC board whith the attached electronic components using the 3d viewer of KiCad.
 
+<img src="P3_Results.png" width="1000" height="800" >
+
 ## Conclusion
 
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
