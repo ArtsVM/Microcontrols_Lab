@@ -95,6 +95,11 @@ Commit and push the files with extensions .pro and .kicad_pcb created once you c
 
 ### Demonstration
 Screenshot the image of the complete schematic and upload it at the repository.
+```diff
++ Click to show the complete PCB screenshot: 
+
+```
+[FINAL RESULT DEMONSTRATION](./P2_PCB_AVM.pdf).
 
 ## Conclusion
 
