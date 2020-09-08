@@ -70,6 +70,7 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 - Track Design (Gerber Viewer) Results
 ```
 <img src="P3_Results.png" width="1000" height="800" >
+
 ```diff
 - Complete PBC (3D KiCad Viewer) Results
 ```
