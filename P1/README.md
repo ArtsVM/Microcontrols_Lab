@@ -94,6 +94,11 @@ in forked repository.
 
 ### Demonstration
 Screenshot the image of the complete schematic and upload it at the repository.
+```diff
++ Click to show the complete schematic screenshot: 
+
+```
+[FINAL RESULT DEMONSTRATION](./P1_Schematic_AVM.pdf).
 
 ## Conclusion
 ```diff
