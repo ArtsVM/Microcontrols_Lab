@@ -74,6 +74,7 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 ```diff
 + Complete PBC (3D KiCad Viewer) Results
 ```
+<img src="3D_KiCadViewer.png" width="1000" height="500" >
 
 ## Conclusion
 
