@@ -105,3 +105,12 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
 
+```diff
++     To sum up, we can say that this practice helped us to move from the schematic to the PCB, providing us a 
++     different or/and a better visualization of our board with all components. However, if we have to take many 
++     things into account, such as adding the correct libraries (discrete and user, in this case) and so on, that 
++     were cause of a delivery delay. Additionally, I would like to suggest a little more explaination about how to 
++     place the connections faster without activating the "white web" option, due to at the beginning it is all 
++     tangled and it is difficult to visualize the PCB and its components. 
+
+```
