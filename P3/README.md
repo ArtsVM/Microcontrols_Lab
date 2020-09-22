@@ -79,3 +79,13 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 ## Conclusion
 
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+
+```diff
++       To conclude this first part of the laboratory and the use of KiCad, we can say that it is a very useful tool 
++       not only for the creation of schematics or data sheets, but also, as was done in this practice 3, you can get
++       with the help of the Gerber Viewer (with the .drl and .gbl) or with the same software, our 3D card view with 
++       the orientation of the components selected. However, if I can put something as a suggestion, I would say that 
++       this practice is short compared to the others and I would like to explore more functions or tools of KiCad 
++       that would be useful for some other occasions. 
+```
+
