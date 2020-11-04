@@ -140,9 +140,10 @@ Record a video of the practice’s functionality and upload it on youtube. The v
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
 
 ```diff
-+       Para resumir esta práctica, se puede decir que fue, más que una pequeña introducción a MPLAB, un acercamiento conciso a 
-+       que resume o nos hace aterrizar los conceptos vistos en clase como el accionamiento de los puertos D o B, seleccionar si
-+       estos serán salidas dígitales o análogas con ANSELx o si son inputs o outputs con TRISx. Asimismo, se observó el funcionamiento
-+       de los operadores bitwise, en especial el del corrimiento (explicada en el video), con lo que fue de gran gratitud que se nos
-+       explicace. Como sugerencia final, se recomendaría hacer un tutorial con el uso o configuración de Protheus para las simulaciones. 
++       Para resumir esta práctica, se puede decir que fue, más que una pequeña introducción a MPLAB, un acercamiento 
++       conciso a que resume o nos hace aterrizar los conceptos vistos en clase como el accionamiento de los puertos D 
++       o B, seleccionar si estos serán salidas dígitales o análogas con ANSELx o si son inputs o outputs con TRISx. 
++       Asimismo, se observó el funcionamiento de los operadores bitwise, en especial el del corrimiento (explicada en 
++       el video), con lo que fue de gran gratitud que se nos explicace. Como sugerencia final, se recomendaría hacer 
++       un tutorial con el uso o configuración de Protheus para las simulaciones. 
 ```
