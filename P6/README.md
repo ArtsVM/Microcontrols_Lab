@@ -1,5 +1,5 @@
-# Practice 6. Parallel Ports (GPIOs)
-
+## Arturo Vázquez Muñoz → A00570187
+# Report - Practice 6 - Parallel Ports (GPIOs)
 
 ## Objectives
 he   student   will   become   familiar   with   the   basic instructions to configure and operate the Microcontroller input/output ports.
@@ -92,3 +92,16 @@ Record a video of the practice’s functionality and upload it on youtube. The v
 ## Conclusion
 
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+
+```diff
++       A manera de conclusión, esta práctica se encofoco al manejo de puertos de manera paralela, junto a ello, se plasmó
++       el diagrama de bloques o diagrama de flujo para la elbaoración de la programación y que esta siguierá como una
++       especia de guía para configurar los puertos correctamente y después, irse a la programación principal donde se
++       efecturía una simulación con el encendido de LEDs un toy mole con el 'Knigth Rider Effect'. Al final, se trato de
++       plasmar un conjunto de todo ello, con la plataforma de Curiosity y Protheus, para lograr tener el minimum card board.
++       Con todo ello, se puede decir que aunque fue una práctica algo extensa y retadora de seguir, se tuvo el gran apoyo
++       del profesor, siguiendo con el la programación paso a paso, con lo que logramos comprender y tener todo correctamente
++       implementado. La única sugerencia sería, que se tuviera más actualizada la información sobre protheus, junto con una 
++       revisión continua de las licencias para su uso. 
+```
+
