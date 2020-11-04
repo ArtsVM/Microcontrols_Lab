@@ -140,6 +140,7 @@ For this practice, add to the Result Section the following:
 
 ### File uploads
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
++ Subido como "main.c", arriba del README.
 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
