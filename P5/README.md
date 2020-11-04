@@ -1,5 +1,5 @@
-# Practice 5. Introduction to using MPLAB X IDE
-
+## Arturo Vázquez Muñoz → A00570187
+# Report - Practice 5. Introduction to using MPLAB X IDE
 
 ## Objectives
 The student will become familiar with the MPLAB
@@ -113,6 +113,22 @@ For this practice, add to the Result Section the following:
     - image of the BUILD SUCCESSFUL window.
     - image of each modified register for the portInit() function when you debug the code step by step. TIP: Put a breakpoint at the first line of the porInit( ) function and open the IO window (Window → Debugging → IO View). Also, modify the Conclusions Section and your names at the top of the document.
 
+```diff
++ BUILD SUCCESSFUL window: 
+```
+<img src="BS.png" width="1000" height="500" >
+
+```diff
++ Register Modification 1: 
+```
+<img src="R1.png" width="1000" height="500" >
+
+```diff
++ Register Modification 2: 
+```
+<img src="R2.png" width="1000" height="500" >
+
+
 ### File uploads
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
 
@@ -122,3 +138,11 @@ Record a video of the practice’s functionality and upload it on youtube. The v
 ## Conclusion
 
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+
+```diff
++       Para resumir esta práctica, se puede decir que fue, más que una pequeña introducción a MPLAB, un acercamiento conciso a 
++       que resume o nos hace aterrizar los conceptos vistos en clase como el accionamiento de los puertos D o B, seleccionar si
++       estos serán salidas dígitales o análogas con ANSELx o si son inputs o outputs con TRISx. Asimismo, se observó el funcionamiento
++       de los operadores bitwise, en especial el del corrimiento (explicada en el video), con lo que fue de gran gratitud que se nos
++       explicace. Como sugerencia final, se recomendaría hacer un tutorial con el uso o configuración de Protheus para las simulaciones. 
+```
