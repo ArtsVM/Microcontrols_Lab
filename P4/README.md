@@ -65,23 +65,31 @@ Se realizará un screenshoot de cada una de la resolución de cada uno de los pr
 explicando la solución y ejecutandola para validar su comprobación.
 
 ```diff
-+ Problema 1: 
++ Problema 1:                
 ```
+→ LINK VIDEO 1:  https://www.youtube.com/watch?v=fC13WCeGACQ
+
 <img src="P1.png" width="1000" height="500" >
 
 ```diff
 + Problema 2: 
 ```
+→ LINK VIDEO 2:  https://www.youtube.com/watch?v=H4gfmIiFw2Q
+
 <img src="P2.png" width="1000" height="500" >
 
 ```diff
 + Problema 3: 
 ```
+→ LINK VIDEO 3:  https://www.youtube.com/watch?v=VAV0Ucsjt4s
+
 <img src="P3.png" width="1000" height="500" >
 
 ```diff
 + Problema 4: 
 ```
+→ LINK VIDEO 4:  https://www.youtube.com/watch?v=qhrGZITPf0g
+
 <img src="P4.png" width="1000" height="500" >
 
 ## Conclusion
