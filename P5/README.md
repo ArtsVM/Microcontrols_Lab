@@ -116,24 +116,35 @@ For this practice, add to the Result Section the following:
 ```diff
 + BUILD SUCCESSFUL window: 
 ```
-<img src="BS.png" width="1000" height="500" >
+<img src="BS.png" width="900" height="500" >
 
 ```diff
 + Register Modification 1: 
 ```
-<img src="R1.png" width="1000" height="500" >
+<img src="R1.png" width="800" height="500" >
 
 ```diff
 + Register Modification 2: 
 ```
-<img src="R2.png" width="1000" height="500" >
+<img src="R2.png" width="800" height="500" >
 
+```diff
++ Register Modification 3: 
+```
+<img src="R3.png" width="800" height="500" >
+
+```diff
++ Register Modification 4: 
+```
+<img src="R4.png" width="800" height="500" >
 
 ### File uploads
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
+
+→ LINK VIDEO: https://youtu.be/bQMdMgcab6M
 
 ## Conclusion
 
