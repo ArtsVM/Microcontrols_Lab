@@ -127,6 +127,8 @@ Commit and push the file main.c created once you completed all the steps of the 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
+→ LINK VIDEO:  https://youtu.be/bUCIgEP_PtY
+
 ## Conclusion
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
 
