@@ -102,7 +102,7 @@ For this practice, add to the Result Section the following:
 ```diff
 + BUILD SUCCESSFUL window: 
 ```
-<img src="BS.png" width="800" height="400" >
+<img src="BS.png" width="600" height="350" >
 
 ```diff
 +       Problemas obtenidos y soluciones: 
@@ -119,7 +119,7 @@ For this practice, add to the Result Section the following:
 ```diff
 + Flow diagram: 
 ```
-<img src="FD.png" width="1370" height="1760" >
+<img src="FD.png" width="1300" height="1500" >
 
 ### File uploads
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
