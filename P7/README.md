@@ -99,6 +99,28 @@ For this practice, add to the Result Section the following:
     - description of the problems found and solutions.
     - flow diagram of your program implementation.
 
+```diff
++ BUILD SUCCESSFUL window: 
+```
+<img src="BS.png" width="900" height="500" >
+
+```diff
++       Problemas obtenidos y soluciones: 
++       Para reducir una candtidad significativa de código y no hacer cada caso bit por bit, se hicieron las siguientes
++       implementaciones o soluciones:
++           → Se hace una tabla de verdad como la colocada para el 3x3, pero tomando en cuenta restriciones para 4x4.
++           → Se hace un switch case, donde se hace el recorrido en cada uno de estos para lectura de columnas.
++           → Una vez enviado el 0 en cada una de las columnas secuencialmente, lo único que se espera es el 0 en los rows.
++           → Se implenta otro switch case para cuando llegue el determinado 0 en el row, mandar señal a los leds. 
++           → Para implentar la restrcción de encendido de primera vez o segunda vez en los LEDs, se hacen corrimientos
++           → de 4 unidades a la izquierda para que me mueva el dígito a mostrar y se ingrese el nuevo. 
+```
+
+```diff
++ Flow diagram: 
+```
+<img src="FD.png" width="800" height="500" >
+
 ### File uploads
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
 
@@ -107,3 +129,12 @@ Record a video of the practice’s functionality and upload it on youtube. The v
 
 ## Conclusion
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+
+```diff
++       A manera de conclusión, esta práctica se puede decir que ya fue algo más sencilla que las anteriores realizadas en 
++       MPLAB, ya que se tiene más conocimiento o estamos más familiarizados con el programa y a la par, esta práctica, nos
++       ofreció distintos puntos clave para resolver el ejercicio y plantear el código correctamente para nuestro teclado
++       matricial de 4x4. Asimismo, se tomaron en cuenta algunas operaciones bitwise para cumplir con las restriciones del
++       ejercico en cuanto al prendido de los LEDs en los puertos D. Como cierre final, se sugiriría el ver un poquito más
++       el funcionamiento de los puertos B con pull-up.
+```
